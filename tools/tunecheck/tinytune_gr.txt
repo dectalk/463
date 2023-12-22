@@ -1,0 +1,29 @@
+
+Dieses Handbuch wurde geschrieben und bearbeitet von
+Arkenstone, Inc., einem gemeinntzigen Hersteller von
+Produkten fr Seh- und Lesebehinderte. Arkenstone ist ein
+gemeinntziges Unternehmen gem„á den US-Bestimmungen
+501(c)(3).
+
+Warenzeichen:
+Calera und PDA (Processed Document Architecture) sind
+Warenzeichen von Calera Recognition Systems. DECtalk ist
+ein Warenzeichen der Digital Equipment Corporation. Alle
+anderen Produkte sind Warenzeichen ihrer jeweiligen
+Hersteller.
+
+Copyright:
+
+Copyright  1993 Arkenstone, Inc.  Alle Rechte
+vorbehalten.
+
+Dieses Handbuch darf nur mit ausdrcklicher schriftlicher
+Genehmigung von Arkenstone, Inc., 1390 Borregas Avenue,
+Sunnyvale, California 94089, USA, in jeglicher Form oder
+auf beliebige Weise elektronisch, mechanisch, magnetisch,
+optisch, chemisch, manuell oder auf sonstige Weise
+reproduziert, bertragen, archiviert oder in andere Fremd-
+oder Computersprachen bersetzt werden.
+Urheberrechtsverletzungen k”nnen nach US- und sonstigen
+Gesetzen geahndet werden.
+

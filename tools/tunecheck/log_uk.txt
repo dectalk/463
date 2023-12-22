@@ -1,0 +1,3259 @@
+
+***  Doing FULL TUNE  ***
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:np]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 548
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 548
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 63.893258
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 70.910667
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 72.988871
+RMS level is 73.424247
+RMS level is 73.424247
+Final tuner string was: ²:sync][:dv gf 64 gh 64 gv 65 gn 87 g1 87 g2 62 g3 52 g4 57 g5 84][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nb]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 513
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 58.589732
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 63.690336
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 63.792357
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 60.630812
+RMS level is 66.167152
+RMS level is 66.167152
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 64 gn 87 g1 87 g2 87 g3 63 g4 53 g5 67][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nh]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 67.315229
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 67.637703
+RMS level is 67.815853
+RMS level is 67.815853
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 65 gn 87 g1 68 g2 61 g3 66 g4 57 g5 86][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nf]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 522, previous phoneme 543
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 548
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 562
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 542
+:RMS level is 0.000000
+ ** Overload detected at phoneme 256, previous phoneme 513
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 64.646957
+ ** Overload detected at phoneme 521, previous phoneme 560
+:RMS level is 65.889705
+ ** Overload detected at phoneme 256, previous phoneme 513
+:RMS level is 66.457517
+RMS level is 66.327060
+RMS level is 66.327060
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 55 gn 87 g1 87 g2 62 g3 61 g4 56 g5 84][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nk]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 62.559665
+ ** Overload detected at phoneme 523, previous phoneme 562
+:RMS level is 60.717852
+ ** Overload detected at phoneme 523, previous phoneme 562
+:RMS level is 60.983199
+ ** Overload detected at phoneme 541, previous phoneme 536
+:RMS level is 65.986649
+RMS level is 66.580500
+RMS level is 66.580500
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 60 gn 87 g1 87 g2 87 g3 68 g4 55 g5 63][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nu]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 513
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 63.414471
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 65.672402
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 65.696552
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 64.870169
+RMS level is 68.742221
+RMS level is 68.742221
+Final tuner string was: ²:sync][:dv gf 65 gh 62 gv 60 gn 87 g1 87 g2 87 g3 63 g4 54 g5 68][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nr]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 529
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 538
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 561
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 513
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 555
+:RMS level is 62.683195
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 64.945182
+ ** Overload detected at phoneme 541, previous phoneme 536
+:RMS level is 67.163525
+ ** Overload detected at phoneme 530, previous phoneme 542
+:RMS level is 67.291280
+RMS level is 67.525180
+RMS level is 67.525180
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 60 gn 87 g1 87 g2 87 g3 66 g4 54 g5 70][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nw]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 560
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 561, previous phoneme 514
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 545
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 545
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 62.395593
+ ** Overload detected at phoneme 517, previous phoneme 540
+:RMS level is 61.308718
+ ** Overload detected at phoneme 541, previous phoneme 536
+:RMS level is 64.245977
+ ** Overload detected at phoneme 541, previous phoneme 256
+:RMS level is 65.392310
+ ** Overload detected at phoneme 256, previous phoneme 513
+:RMS level is 64.610887
+RMS level is 65.921496
+RMS level is 65.921496
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 52 gn 87 g1 87 g2 87 g3 73 g4 54 g5 71][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nd]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 1.000000
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 60.095452
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 60.387954
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 59.776433
+RMS level is 66.522492
+RMS level is 66.522492
+Final tuner string was: ²:sync][:dv gf 63 gh 63 gv 65 gn 87 g1 87 g2 65 g3 61 g4 56 g5 78][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:np]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 548
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 3779.126902
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 3604.865033
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 3306.203504
+RMS level is 2976.866184
+RMS level is 2976.866184
+Final tuner string was: ²:sync][:dv gf 64 gh 64 gv 65 gn 87 g1 87 g2 65 g3 58 g4 58 g5 79][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nb]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 542
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 555
+:RMS level is 4602.236610
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 4356.198129
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 3871.944869
+ ** Overload detected at phoneme 541, previous phoneme 256
+:RMS level is 4234.226293
+RMS level is 3688.442018
+RMS level is 3688.442018
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 64 gn 87 g1 87 g2 71 g3 67 g4 59 g5 66][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nh]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 557, previous phoneme 513
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 3962.803172
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 4024.578522
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 3547.484807
+RMS level is 3300.917728
+RMS level is 3300.917728
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 65 gn 87 g1 70 g2 65 g3 69 g4 57 g5 77][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nf]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 548
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 560
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 545
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 560
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 539
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 561, previous phoneme 514
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 538
+:RMS level is 0.000000
+ ** Overload detected at phoneme 256, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 538
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 4399.503741
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 3536.331922
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 3573.546118
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 3300.028172
+ ** Overload detected at phoneme 519, previous phoneme 548
+:RMS level is 2758.523091
+RMS level is 2658.436747
+RMS level is 2658.436747
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 55 gn 87 g1 87 g2 62 g3 65 g4 60 g5 82][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nk]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 555
+:RMS level is 4893.395423
+ ** Overload detected at phoneme 519, previous phoneme 555
+:RMS level is 4324.496146
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 3829.836529
+ ** Overload detected at phoneme 541, previous phoneme 256
+:RMS level is 4130.460863
+RMS level is 3686.548686
+RMS level is 3686.548686
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 60 gn 87 g1 87 g2 71 g3 73 g4 59 g5 63][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nu]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 256
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 4488.304584
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 4187.788434
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 3743.417650
+ ** Overload detected at phoneme 519, previous phoneme 549
+:RMS level is 3538.735032
+ ** Overload detected at phoneme 530, previous phoneme 513
+:RMS level is 3212.072088
+RMS level is 3207.160721
+RMS level is 3207.160721
+Final tuner string was: ²:sync][:dv gf 65 gh 62 gv 60 gn 87 g1 71 g2 66 g3 68 g4 61 g5 76][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nr]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 561
+:RMS level is 0.000000
+ ** Overload detected at phoneme 518, previous phoneme 513
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 561
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 539
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 541, previous phoneme 513
+:RMS level is 2596.312912
+ ** Overload detected at phoneme 543, previous phoneme 530
+:RMS level is 3258.840747
+ ** Overload detected at phoneme 256, previous phoneme 529
+:RMS level is 2825.046111
+ ** Overload detected at phoneme 517, previous phoneme 558
+:RMS level is 2516.428393
+ ** Overload detected at phoneme 256, previous phoneme 529
+:RMS level is 2220.985448
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 2018.712648
+ ** Overload detected at phoneme 256, previous phoneme 513
+:RMS level is 1769.728982
+RMS level is 1584.381859
+RMS level is 1584.381859
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 60 gn 87 g1 70 g2 61 g3 71 g4 61 g5 81][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nw]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 540
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 516, previous phoneme 513
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 559, previous phoneme 519
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 561, previous phoneme 514
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 545
+:RMS level is 0.000000
+ ** Overload detected at phoneme 530, previous phoneme 523
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 545
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 560
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 560
+:RMS level is 2937.412363
+ ** Overload detected at phoneme 543, previous phoneme 517
+:RMS level is 2512.116278
+RMS level is 2287.493325
+RMS level is 2287.493325
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 52 gn 87 g1 70 g2 61 g3 76 g4 63 g5 84][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nd]
+Input file: tinytune_uk.txt  Net Size: 1172
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 548
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 538
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+ ** Overload detected at phoneme 521, previous phoneme 549
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 514, previous phoneme 544
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 553
+:RMS level is 0.000000
+ ** Overload detected at phoneme 513, previous phoneme 536
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 519, previous phoneme 559
+:RMS level is 0.000000
+ ** Overload detected at phoneme 517, previous phoneme 559
+:RMS level is 4889.435384
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 4501.213269
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 4008.875216
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 3546.909790
+ ** Overload detected at phoneme 521, previous phoneme 559
+:RMS level is 3240.753320
+RMS level is 3037.336006
+RMS level is 3037.336006
+Final tuner string was: ²:sync][:dv gf 63 gh 63 gv 65 gn 87 g1 87 g2 69 g3 65 g4 57 g5 68][:sync]
+

@@ -1,0 +1,3307 @@
+
+***  Doing FULL TUNE  ***
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:np]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1031, previous phoneme 1025
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 72.517939
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 70.280941
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 72.779270
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 73.104464
+RMS level is 72.741895
+RMS level is 72.741895
+Final tuner string was: ²:sync][:dv gf 64 gh 64 gv 65 gn 73 g1 87 g2 62 g3 52 g4 58 g5 83][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nb]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1038
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1038
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 64.599437
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 64.364592
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 67.547807
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 68.747564
+RMS level is 68.210750
+RMS level is 68.210750
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 64 gn 87 g1 87 g2 87 g3 62 g4 55 g5 67][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nh]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 1038
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1038
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 62.669752
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 68.222085
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 68.618912
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 68.174243
+RMS level is 67.877582
+RMS level is 67.877582
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 65 gn 87 g1 70 g2 60 g3 65 g4 59 g5 84][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nf]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 307, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1035
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 307, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1048, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1026
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 68.537215
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 70.432137
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 65.333503
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 66.842335
+ ** Overload detected at phoneme 1027, previous phoneme 1040
+:RMS level is 67.032015
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 67.954136
+RMS level is 67.656450
+RMS level is 67.656450
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 55 gn 87 g1 87 g2 63 g3 61 g4 55 g5 82][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nk]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 63.268749
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 69.121041
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 68.722508
+RMS level is 68.460939
+RMS level is 68.460939
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 60 gn 87 g1 87 g2 87 g3 67 g4 55 g5 64][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nu]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 70.743578
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 68.797830
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 69.169303
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 69.061753
+RMS level is 69.585554
+RMS level is 69.585554
+Final tuner string was: ²:sync][:dv gf 65 gh 62 gv 60 gn 87 g1 87 g2 87 g3 63 g4 54 g5 68][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nr]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1035
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1039
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 73.170028
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 65.836605
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 69.891156
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 70.417478
+RMS level is 69.549855
+RMS level is 69.549855
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 60 gn 87 g1 87 g2 87 g3 66 g4 52 g5 73][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nw]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 307, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1038
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 256
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1039
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1051
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1051, previous phoneme 1026
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 68.903166
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 65.635956
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 64.725307
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 69.352431
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 69.577338
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 69.624560
+RMS level is 69.266069
+RMS level is 69.266069
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 52 gn 87 g1 87 g2 87 g3 71 g4 53 g5 74][:sync]
+
+Bytes/sample=1, sample rate=8000
+PREFIX TEXT IS [:nd]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 1.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 67.271927
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 64.355322
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 63.289954
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 68.896403
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 59.121306
+ ** Overload detected at phoneme 1025, previous phoneme 307
+:RMS level is 68.023255
+RMS level is 67.770192
+RMS level is 67.770192
+Final tuner string was: ²:sync][:dv gf 63 gh 63 gv 65 gn 87 g1 87 g2 67 g3 60 g4 57 g5 75][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:np]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1036, previous phoneme 1028
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 3722.791488
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 3300.111335
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 2918.435101
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 2601.388539
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 2726.758827
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 2413.466645
+RMS level is 2257.383891
+RMS level is 2257.383891
+Final tuner string was: ²:sync][:dv gf 64 gh 64 gv 65 gn 87 g1 87 g2 66 g3 57 g4 60 g5 74][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nb]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 6455.007682
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 5385.279939
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 4836.689116
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 4319.784692
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 4197.741823
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 3637.923890
+RMS level is 3472.370594
+RMS level is 3472.370594
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 64 gn 87 g1 87 g2 72 g3 67 g4 58 g5 66][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nh]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1031
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 307, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 4852.508944
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 4337.140147
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 3818.837057
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 3457.860937
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 3095.049071
+ ** Overload detected at phoneme 1025, previous phoneme 256
+:RMS level is 2944.742799
+ ** Overload detected at phoneme 1027, previous phoneme 1040
+:RMS level is 2690.314832
+RMS level is 2424.081191
+RMS level is 2424.081191
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 65 gn 87 g1 71 g2 65 g3 68 g4 60 g5 71][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nf]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1033, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1048, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1026
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 307, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 307, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 307, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 1811.119056
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 3410.457230
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 3131.989520
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 2880.602212
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 2508.881697
+ ** Overload detected at phoneme 1053, previous phoneme 1027
+:RMS level is 2222.770405
+ ** Overload detected at phoneme 1025, previous phoneme 1035
+:RMS level is 2055.279535
+ ** Overload detected at phoneme 1025, previous phoneme 1035
+:RMS level is 1826.822771
+ ** Overload detected at phoneme 1025, previous phoneme 1035
+:RMS level is 1639.576283
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 1465.154710
+RMS level is 1338.827230
+RMS level is 1338.827230
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 55 gn 87 g1 87 g2 64 g3 64 g4 57 g5 78][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nk]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1033, previous phoneme 1025
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 6110.448183
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 5251.514459
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 4600.902123
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 4566.934545
+RMS level is 4208.593211
+RMS level is 4208.593211
+Final tuner string was: ²:sync][:dv gf 65 gh 65 gv 60 gn 87 g1 87 g2 73 g3 71 g4 59 g5 64][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nu]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1038
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1027
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 4104.406472
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 3825.032968
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 3464.738983
+ ** Overload detected at phoneme 1025, previous phoneme 256
+:RMS level is 3459.147972
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 2982.299852
+RMS level is 2777.967453
+RMS level is 2777.967453
+Final tuner string was: ²:sync][:dv gf 65 gh 62 gv 60 gn 87 g1 73 g2 68 g3 67 g4 59 g5 74][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nr]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1054
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1054
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1049
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1025
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1035
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1038
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 256
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1046
+:RMS level is 3304.013400
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 3168.199142
+ ** Overload detected at phoneme 1035, previous phoneme 1026
+:RMS level is 2844.370303
+RMS level is 2576.477798
+RMS level is 2576.477798
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 60 gn 87 g1 71 g2 61 g3 71 g4 61 g5 84][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nw]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1054
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1036, previous phoneme 1026
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1054
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1026, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1027
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1026
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1050, previous phoneme 1026
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1033
+:RMS level is 3158.790884
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 3217.102031
+ ** Overload detected at phoneme 1036, previous phoneme 1026
+:RMS level is 2923.337650
+ ** Overload detected at phoneme 1050, previous phoneme 1026
+:RMS level is 2548.104978
+ ** Overload detected at phoneme 1036, previous phoneme 1026
+:RMS level is 2387.788055
+RMS level is 2156.768362
+RMS level is 2156.768362
+Final tuner string was: ²:sync][:dv gf 65 gh 60 gv 52 gn 87 g1 72 g2 62 g3 74 g4 63 g5 83][:sync]
+
+Bytes/sample=2, sample rate=11025
+PREFIX TEXT IS [:nd]
+Input file: tinytune_sp.txt  Net Size: 2125
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1036
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1036
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1029
+:RMS level is 0.000000
+RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1027, previous phoneme 1048
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1028, previous phoneme 307
+:RMS level is 0.000000
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 4893.594815
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 4293.652512
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 3841.715562
+ ** Overload detected at phoneme 1025, previous phoneme 1026
+:RMS level is 3491.173306
+ ** Overload detected at phoneme 1025, previous phoneme 1050
+:RMS level is 3104.605097
+ ** Overload detected at phoneme 1025, previous phoneme 256
+:RMS level is 3102.914575
+RMS level is 2796.770571
+RMS level is 2796.770571
+Final tuner string was: ²:sync][:dv gf 63 gh 63 gv 65 gn 87 g1 87 g2 69 g3 64 g4 59 g5 66][:sync]
+

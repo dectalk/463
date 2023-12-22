@@ -1,0 +1,25 @@
+HKCR
+{
+	DECtalk.DECtalkPaulIT.1 = s 'DECtalkPaulIT Class'
+	{
+		CLSID = s '{99EE9592-A4A6-11d1-BEB2-0060083E8376}'
+	}
+	DECtalk.DECtalkPaulIT = s 'DECtalkPaulIT Class'
+	{
+		CLSID = s '{99EE9592-A4A6-11d1-BEB2-0060083E8376}'
+		CurVer = s 'DECtalk.DECtalkPaulIT.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {99EE9592-A4A6-11d1-BEB2-0060083E8376} = s 'DECtalkPaulIT Class'
+		{
+			ProgID = s 'DECtalk.DECtalkPaulIT.1'
+			VersionIndependentProgID = s 'DECtalk.DECtalkPaulIT'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Both'
+			}
+			'TypeLib' = s '{99EE9593-A4A6-11d1-BEB2-0060083E8376}'
+		}
+	}
+}

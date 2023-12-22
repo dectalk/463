@@ -1,0 +1,1864 @@
+# Microsoft Developer Studio Generated Dependency File, included by dectalk.mak
+
+.\hlsyn\acxf1c.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\hlsyn\brent.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\hlsyn\circuit.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\Cmd\cm_char.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cm_cmd.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cm_copt.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\c_us_cde.h"\
+	".\cmd\cm_cdef.h"\
+	".\Cmd\Cm_copt.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cm_main.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cm_pars.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\pcport.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cm_phon.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cm_text.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cm_util.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\Cmd\Cm_util.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\Cmd_init.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\cmd_wav.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\mulawi.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Nt\dbgwins.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\include\port.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\hlsyn\hlframe.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\hlsyn\inithl.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\Lts\loaddict.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_prot.h"\
+	".\nt\dbgwins.h"\
+	".\nt\mmalloc.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\hlsyn\log10table.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\Lts\ls_dict.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_prot.h"\
+	".\nt\dbgwins.h"\
+	".\nt\mmalloc.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Lts\ls_homo.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\Lts\Ls_homo.h"\
+	".\lts\ls_prot.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Lts\ls_math.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\LTS\l_uk_ma1.c"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_math.h"\
+	".\lts\ls_math1.c"\
+	".\lts\ls_prot.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Lts\ls_spel.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\LTS\l_uk_sp1.c"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_prot.h"\
+	".\lts\ls_spel1.c"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Lts\ls_suff.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_prot.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Lts\lsa_us.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Lts\lsa_util.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\cm_data.h"\
+	".\cmd\cm_def.h"\
+	".\cmd\cm_defs.h"\
+	".\cmd\cm_prot.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_prot.h"\
+	".\LTS\ls_util.c"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Lts\lsw_main.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_prot.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\NT\mmalloc.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\include\port.h"\
+	".\nt\mmalloc.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\hlsyn\nasalf1x.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\NT\opthread.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\PH\p_fr_sy1.c : \
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\audioapi.h"\
+	".\Include\Audiodef.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\l_fr_ph.h"\
+	".\Include\L_gr_ph.h"\
+	".\INCLUDE\l_la_ph.h"\
+	".\Include\L_sp_ph.h"\
+	".\include\l_uk_ph.h"\
+	".\Include\L_us_ph.h"\
+	".\include\pcport.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ltsnames.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\protos\kernp.h"\
+	".\protos\libp.h"\
+	
+
+.\PH\p_la_sy1.c : \
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\audioapi.h"\
+	".\Include\Audiodef.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\l_fr_ph.h"\
+	".\Include\L_gr_ph.h"\
+	".\INCLUDE\l_la_ph.h"\
+	".\Include\L_sp_ph.h"\
+	".\include\l_uk_ph.h"\
+	".\Include\L_us_ph.h"\
+	".\include\pcport.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ltsnames.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\protos\kernp.h"\
+	".\protos\libp.h"\
+	
+
+.\PH\p_sp_sy1.c : \
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\audioapi.h"\
+	".\Include\Audiodef.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\l_fr_ph.h"\
+	".\Include\L_gr_ph.h"\
+	".\INCLUDE\l_la_ph.h"\
+	".\Include\L_sp_ph.h"\
+	".\include\l_uk_ph.h"\
+	".\Include\L_us_ph.h"\
+	".\include\pcport.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ltsnames.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\protos\kernp.h"\
+	".\protos\libp.h"\
+	
+
+.\PH\p_us_sy1.c : \
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\audioapi.h"\
+	".\Include\Audiodef.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\l_fr_ph.h"\
+	".\Include\L_gr_ph.h"\
+	".\INCLUDE\l_la_ph.h"\
+	".\Include\L_sp_ph.h"\
+	".\include\l_uk_ph.h"\
+	".\Include\L_us_ph.h"\
+	".\include\pcport.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\lts\ltsnames.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\protos\kernp.h"\
+	".\protos\libp.h"\
+	
+
+.\Cmd\par_ambi.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\Cmd\Par_char.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\ls_lower.tab"\
+	".\include\ls_upper.tab"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\Par_dict.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\kernel.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Cmd\par_rule.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\cmd\comp_dum.h"\
+	".\cmd\par_bin.h"\
+	".\cmd\par_def.h"\
+	".\cmd\par_def1.h"\
+	".\cmd\par_rule2.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\Ph\ph_aloph.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Ph\ph_claus.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Ph\ph_draw.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_draw1.c"\
+	".\ph\ph_prot.h"\
+	".\vtm\tunecheck.h"\
+	".\vtm\vtminst.h"\
+	
+
+.\Ph\ph_main.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Ph\ph_romi.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\PH\p_fr_rom.h"\
+	".\PH\p_gr_rom.h"\
+	".\PH\p_la_rom.h"\
+	".\PH\p_sp_rom.h"\
+	".\PH\p_uk_rom.h"\
+	".\PH\p_us_rom.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Ph\ph_setar.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\PH\p_fr_st1.c"\
+	".\PH\p_gr_st1.c"\
+	".\PH\p_la_st1.c"\
+	".\PH\p_sp_st1.c"\
+	".\PH\p_uk_st1.c"\
+	".\PH\p_us_st1.c"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\ph\ph_sttr1.c"\
+	".\PH\ph_sttr2.c"\
+	
+
+.\Ph\ph_sort.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\PH\p_fr_sr1.c"\
+	".\PH\p_gr_sr1.c"\
+	".\PH\p_la_sr1.c"\
+	".\PH\p_sp_sr1.c"\
+	".\PH\P_UK_SR1.C"\
+	".\PH\p_us_sr1.c"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\ph\ph_sort1.c"\
+	".\PH\ph_sort2.c"\
+	
+
+.\Ph\ph_syl.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\include\uk_def.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\PH\P_UK_SY1.C"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\ph\ph_syl1.c"\
+	
+
+.\Ph\ph_task.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Ph\ph_timng.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\PH\p_fr_tim.c"\
+	".\PH\p_gr_tim.c"\
+	".\PH\p_la_tim.c"\
+	".\PH\p_sp_tim.c"\
+	".\PH\p_uk_tim.c"\
+	".\PH\p_us_tim.c"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\ph\ph_time1.c"\
+	
+
+.\Ph\ph_vdefi.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\p_fr_vdf_tuneint.h"\
+	".\ph\p_gr_vdf_tuneint.h"\
+	".\ph\p_la_vdf_tuneint.h"\
+	".\ph\p_sp_vdf_tuneint.h"\
+	".\ph\p_uk_vdf_tuneint.h"\
+	".\PH\P_us_vdf1.h"\
+	".\ph\p_us_vdf_tuneint.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Ph\ph_vset.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\vtm\tunecheck.h"\
+	".\vtm\vtminst.h"\
+	
+
+.\Ph\phinit.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\Ph\phlog.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\186.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\pcport.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	
+
+.\PH\phprint.c : \
+	"..\..\dectalkf.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	
+
+.\nt\PIPE.C : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\NT\playaud.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\kernel.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\mmalloc.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\nt\shmalloc.h"\
+	
+
+.\vtm\PLAYTONE.C : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\kernel.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\vtm\sinetab.h"\
+	".\vtm\tunecheck.h"\
+	".\vtm\vtminst.h"\
+	
+
+.\kernel\SERVICES.C : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\esc.h"\
+	".\include\kernel.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	
+
+.\nt\SPC.C : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	
+
+.\hlsyn\sqrttable.c : \
+	"..\..\dectalkf.h"\
+	
+
+.\vtm\SYNC.C : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\include\samprate.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\vtm\tunecheck.h"\
+	".\vtm\vtminst.h"\
+	
+
+.\api\ttsapi.c : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\api\ttserr.h"\
+	".\api\ttsfeat.h"\
+	".\cmd\cm_defs.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\include\phonlist.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\include\samprate.h"\
+	".\lts\ls_char.h"\
+	".\lts\ls_cons.h"\
+	".\lts\ls_data.h"\
+	".\lts\ls_def.h"\
+	".\lts\ls_defs.h"\
+	".\Lts\Ls_dict.h"\
+	".\lts\ls_prot.h"\
+	".\nt\dbgwins.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\vtm\tunecheck.h"\
+	".\vtm\vtminst.h"\
+	
+
+.\kernel\USA_INIT.C : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\include\cmd.h"\
+	".\include\defs.h"\
+	".\include\fr_def.h"\
+	".\include\fr_err.tab"\
+	".\include\fr_phon.tab"\
+	".\include\fr_type.tab"\
+	".\include\ger_def.h"\
+	".\include\ger_err.tab"\
+	".\include\ger_phon.tab"\
+	".\include\ger_type.tab"\
+	".\include\iso_char.h"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\INCLUDE\la_def.h"\
+	".\INCLUDE\la_err.tab"\
+	".\INCLUDE\la_phon.tab"\
+	".\INCLUDE\la_type.tab"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\include\spa_def.h"\
+	".\include\spa_err.tab"\
+	".\include\spa_phon.tab"\
+	".\include\spa_type.tab"\
+	".\include\uk_def.h"\
+	".\include\uk_err.tab"\
+	".\include\uk_phon.tab"\
+	".\include\uk_type.tab"\
+	".\include\usa_def.h"\
+	".\include\usa_err.tab"\
+	".\include\usa_phon.tab"\
+	".\include\usa_type.tab"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaudd.h"\
+	
+
+.\vtm\VTMIONT.C : \
+	"..\..\..\..\program files\microsoft platform sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\tvout.h"\
+	"..\..\..\..\program files\microsoft platform sdk\include\winefs.h"\
+	"..\..\dectalkf.h"\
+	".\api\coop.h"\
+	".\api\tts.h"\
+	".\api\ttsapi.h"\
+	".\include\cmd.h"\
+	".\include\dectalk.h"\
+	".\include\defs.h"\
+	".\include\dt_abort.h"\
+	".\include\esc.h"\
+	".\include\fc_def.tab"\
+	".\include\kernel.h"\
+	".\include\l_all_ph.h"\
+	".\Include\L_com_ph.h"\
+	".\Include\Pipe.h"\
+	".\include\port.h"\
+	".\include\samprate.h"\
+	".\nt\opatype.h"\
+	".\nt\opmmsys.h"\
+	".\nt\opthread.h"\
+	".\nt\playaud.h"\
+	".\nt\playaudd.h"\
+	".\PH\p_all_ph.h"\
+	".\ph\ph_data.h"\
+	".\ph\ph_def.h"\
+	".\ph\ph_defs.h"\
+	".\ph\ph_prot.h"\
+	".\vtm\tunecheck.h"\
+	".\vtm\vtminst.h"\
+	
